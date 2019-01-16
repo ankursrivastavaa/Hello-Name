@@ -10,6 +10,10 @@ namespace HelloName
     {
         static void Main(string[] args)
         {
+            string name = "Ankur Srivastava";
+            Console.WriteLine('name');
+            Console.WriteLine("press any key to exit");
+            Console.ReadKey(true);
         }
     }
 }
